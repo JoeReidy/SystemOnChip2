@@ -1,0 +1,45 @@
+VERSION 31/10/01 11:02:51
+FIG #C:\microwind2\Book on CMOS\EepromStates.MSK
+BB(15,7,93,62)
+SIMU #5.00
+REC(49,16,7,10,DN)
+REC(40,16,7,10,DN)
+REC(27,16,7,10,DN)
+REC(18,16,7,10,DN)
+REC(47,16,2,10,DN)
+REC(25,16,2,10,DN)
+REC(47,33,2,2,CO)
+REC(25,33,2,2,CO)
+REC(20,18,2,2,CO)
+REC(30,18,2,2,CO)
+REC(52,18,2,2,CO)
+REC(42,18,2,2,CO)
+REC(25,13,2,18,P2,0)
+REC(23,31,6,6,P2,0)
+REC(45,31,6,6,P2,0)
+REC(47,13,2,18,P2,0)
+REC(25,14,2,14,PO)
+REC(47,14,2,14,PO)
+REC(40,12,6,10,ME)
+REC(18,7,28,5,ME)
+REC(45,31,6,6,ME)
+REC(28,16,6,10,ME)
+REC(18,12,6,10,ME)
+REC(50,16,6,10,ME)
+REC(29,32,16,4,ME)
+REC(23,31,6,6,ME)
+TITLE 15 40  #charged with e-
+$- 1000 0 
+TITLE 53 23  #DrainOut2
+$v 1000 0 
+TITLE 31 23  #DrainOut1
+$v 1000 0 
+TITLE 26 34  #clockGate
+$c 1000 0   0.45   0.50   0.95   1.00 
+TITLE 21 14  #clockIn
+$c 1000 0   0.95   1.00   1.95   2.00 
+TITLE 23 52  #Floating gate 
+$- 1000 0 
+TITLE 47 40  #discharged
+$- 1000 0 
+FFIG C:\microwind2\Book on CMOS\EepromStates.MSK

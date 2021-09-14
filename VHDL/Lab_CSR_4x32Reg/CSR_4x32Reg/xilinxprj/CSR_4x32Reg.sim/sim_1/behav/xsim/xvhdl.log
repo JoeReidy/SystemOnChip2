@@ -1,0 +1,7 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/College/Forth Year/System On Chip/VHDL/Lab_CSR_4x32Reg/CSR_4x32Reg/CSR_4x32Reg.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'CSR_4x32Reg'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/College/Forth Year/System On Chip/VHDL/Lab_CSR_4x32Reg/CSR_4x32Reg/testbench/CSR_4x32Reg_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'CSR_4x32Reg_TB'
+ERROR: [VRFC 10-719] formal port/generic <dout> is not declared in <csr_4x32reg> [D:/College/Forth Year/System On Chip/VHDL/Lab_CSR_4x32Reg/CSR_4x32Reg/testbench/CSR_4x32Reg_TB.vhd:47]
+ERROR: [VRFC 10-3782] unit 'behavioral' ignored due to previous errors [D:/College/Forth Year/System On Chip/VHDL/Lab_CSR_4x32Reg/CSR_4x32Reg/testbench/CSR_4x32Reg_TB.vhd:15]
+INFO: [VRFC 10-3070] VHDL file 'D:/College/Forth Year/System On Chip/VHDL/Lab_CSR_4x32Reg/CSR_4x32Reg/testbench/CSR_4x32Reg_TB.vhd' ignored due to errors

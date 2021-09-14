@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Sep  8 12:08:19 2021
+# Process ID: 3104
+# Current directory: D:/College/Forth Year/System On Chip/VHDL/Lab_CSR_4x32Reg/CSR_4x32Reg/xilinxprj
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12200 D:\College\Forth Year\System On Chip\VHDL\Lab_CSR_4x32Reg\CSR_4x32Reg\xilinxprj\CSR_4x32Reg.xpr
+# Log file: D:/College/Forth Year/System On Chip/VHDL/Lab_CSR_4x32Reg/CSR_4x32Reg/xilinxprj/vivado.log
+# Journal file: D:/College/Forth Year/System On Chip/VHDL/Lab_CSR_4x32Reg/CSR_4x32Reg/xilinxprj\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/College/Forth Year/System On Chip/VHDL/Lab_CSR_4x32Reg/CSR_4x32Reg/xilinxprj/CSR_4x32Reg.xpr}
+INFO: [Project 1-313] Project file moved from 'C:/top/f7/vicilab/sample_projects/applications/DSPProcFolders/DSPProc_S21/DSPProc/memory/CSR_4x32Reg/CSR_4x32Reg/xilinxprj' since last save.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/College/Forth Year/System On Chip/pkgAndComponents/arrayPackage.vhd', nor could it be found using path 'C:/top/f7/vicilab/sample_projects/applications/DSPProcFolders/DSPProc_S21/DSPProc/pkgAndComponents/arrayPackage.vhd'.
+Scanning sources...
+Finished scanning sources
+WARNING: [filemgmt 56-2] Board Part Repository Path: Could not find the directory 'D:/../../../../../Users/0004322S/AppData/Roaming/Xilinx/Vivado/2019.1/xhub/board_store', nor could it be found using path 'C:/Users/0004322S/AppData/Roaming/Xilinx/Vivado/2019.1/xhub/board_store'.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.1/data/ip'.
+open_project: Time (s): cpu = 00:00:25 ; elapsed = 00:00:09 . Memory (MB): peak = 711.414 ; gain = 0.152
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Sep  8 12:15:59 2021...
